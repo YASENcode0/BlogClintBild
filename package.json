@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:3001",
+  "proxy": "https://blogserver-h5ip.onrender.com",
   "name": "clint",
   "version": "0.1.0",
   "private": true,
